@@ -83,7 +83,7 @@ The design system is built on **Tailwind CSS** with extensive customization:
 - **vite**: Fast build tool with excellent TypeScript support
 - **tsx**: TypeScript execution environment for development
 - **esbuild**: Fast JavaScript bundler for production builds
-- **@replit/vite-plugin-runtime-error-modal**: Development error handling for Replit environment
+- **@replit/vite-plugin-runtime-error-modal**: Development error handling for Replit environment. (Not necessary I used Replit as my IDE).
 
 ## Audio and Media
 The application includes support for background music and sound effects to enhance the user experience, with proper audio management through custom hooks.
